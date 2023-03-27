@@ -1,4 +1,6 @@
-## Defining Problem
+# Approximating Pi using Various Methods
+
+### Defining Problem
 
 The famously irrational number pi in a number than can be conceptuialized by humans and used regularly in computations by simpily using symbology as means of representing all the copmlexity imbune with $\pi$. But for a computer, such an irrational number can provide to be difficult due to limitation in memory and the utlization of the Base-2 (binary) number system. We as humans have therefore devised methods of approximating pi using computational method dependent on iterative estimations that provide a closer approximation to true pi. The following code will use various methods to approximate pi and include analysis on which method provides that most accruate and speedy approximatation of pi. 
 
