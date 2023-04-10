@@ -15,7 +15,7 @@ $$ \pi = 4 \left( 1 - \frac{1}{3} + \frac{1}{5} - \frac{1}{7} + \frac{1}{9} ... 
 ### Aproximating $\pi$ via Monte Carlo Simulation:
 
 
-![MC_Simulation](./Monte_Carlo_Approximation.gif)
+![MC_Simulation](./MC_Generator.gif)
 
 
 However two variations of MCS are used; one method involving the traditional _Numpy_ library from which so much of Python is based on, and the other involves the use of **IBM's Quantum Computing** simulator via the _Qiskit_ library. Implicitly the MCS method of approximting $\pi$ relies on the utilization of random numbers and is therefore best suited for the application of a Quantum Computer, as such machines are fickle to say the least. The errant and unreliable nature of the current iterations of quantum computers provides a degree of randomness that would be best suited in this application as it might accelerate the approximation of $\pi$ by using fewer iterations to produces a reasonable answer.
